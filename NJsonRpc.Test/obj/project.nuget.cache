@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HDS8BPbJShWEV6TofSkiiJSsFo0rYnzPY8vH3VYnTUN1G3IcOytEqRgziZiHHPduMJdPAvs038h6GqhFtU4CcQ==",
+  "success": true,
+  "projectFilePath": "/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc.Test/NJsonRpc.Test.csproj",
+  "expectedPackageFiles": [
+    "/Users/wawa/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

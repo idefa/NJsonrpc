@@ -1,0 +1,16 @@
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc.Test/bin/Debug/netcoreapp3.1/NJsonRpc.Test.deps.json
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc.Test/bin/Debug/netcoreapp3.1/NJsonRpc.Test.runtimeconfig.json
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc.Test/bin/Debug/netcoreapp3.1/NJsonRpc.Test.runtimeconfig.dev.json
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc.Test/bin/Debug/netcoreapp3.1/NJsonRpc.Test.dll
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc.Test/bin/Debug/netcoreapp3.1/NJsonRpc.Test.pdb
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc.Test/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc.Test/bin/Debug/netcoreapp3.1/NJsonRpc.dll
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc.Test/bin/Debug/netcoreapp3.1/NJsonRpc.pdb
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc.Test/obj/Debug/netcoreapp3.1/NJsonRpc.Test.csprojAssemblyReference.cache
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc.Test/obj/Debug/netcoreapp3.1/NJsonRpc.Test.AssemblyInfoInputs.cache
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc.Test/obj/Debug/netcoreapp3.1/NJsonRpc.Test.AssemblyInfo.cs
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc.Test/obj/Debug/netcoreapp3.1/NJsonRpc.Test.csproj.CoreCompileInputs.cache
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc.Test/obj/Debug/netcoreapp3.1/NJsonRpc.Test.csproj.CopyComplete
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc.Test/obj/Debug/netcoreapp3.1/NJsonRpc.Test.dll
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc.Test/obj/Debug/netcoreapp3.1/NJsonRpc.Test.pdb
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc.Test/obj/Debug/netcoreapp3.1/NJsonRpc.Test.genruntimeconfig.cache

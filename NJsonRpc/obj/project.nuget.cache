@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BTHoL1ZcoHIzQaiMvjX3ba6S6eUDsK2wAjMBpPS49/lxfYAZKR+qE6sgdarq7yBFV0Q3kq5Ciuhl38EOF35L3g==",
+  "success": true,
+  "projectFilePath": "/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc/NJsonRpc.csproj",
+  "expectedPackageFiles": [
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/wawa/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

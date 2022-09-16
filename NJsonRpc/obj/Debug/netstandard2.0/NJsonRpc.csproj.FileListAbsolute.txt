@@ -1,0 +1,9 @@
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc/bin/Debug/netstandard2.0/NJsonRpc.deps.json
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc/bin/Debug/netstandard2.0/NJsonRpc.dll
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc/bin/Debug/netstandard2.0/NJsonRpc.pdb
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc/obj/Debug/netstandard2.0/NJsonRpc.csprojAssemblyReference.cache
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc/obj/Debug/netstandard2.0/NJsonRpc.AssemblyInfoInputs.cache
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc/obj/Debug/netstandard2.0/NJsonRpc.AssemblyInfo.cs
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc/obj/Debug/netstandard2.0/NJsonRpc.csproj.CoreCompileInputs.cache
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc/obj/Debug/netstandard2.0/NJsonRpc.dll
+/Users/wawa/Documents/dotnet/NJsonRpc/NJsonRpc/obj/Debug/netstandard2.0/NJsonRpc.pdb
